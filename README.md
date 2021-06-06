@@ -24,8 +24,8 @@ Argument name | Type | Required | Default Value
 -------- | ---- | -------- | -------------
 --project-id | str | True | -
 --processor-id | str | True | -
+--location | str | False | us
 file | path | True | -
-location | str | False | us
 
 
 ## Package Usage
